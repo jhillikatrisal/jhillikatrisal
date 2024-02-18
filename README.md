@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jo, building Cognitii!
+- 👋 Hi, I’m @jhillikatrisal!
 - 👀 I’m interested in neuroscience and developmental biology.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on interesting comp bio projects.
